@@ -22,7 +22,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 7. cancel
 /api/r_cancel?id=&pw=&loc=&date=&time=
 */
-class Api extends CI_Controller {
+class Yonsei extends CI_Controller {
 	protected $context;
 	protected $JSESSIONID;
 	protected $__smVisitorID;
